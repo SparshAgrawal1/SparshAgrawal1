@@ -1,3 +1,4 @@
+![ViewCount](https://views.whatilearened.today/views/github/SparshAgrawal1/SparshAgrawal1.svg?cache=remove) <br>
 ### Hi there 👋
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SparshAgrawal1&count_private=true&theme=tokyonight&showicons=true)]()
 
